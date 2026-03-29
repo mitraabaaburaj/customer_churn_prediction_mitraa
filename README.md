@@ -16,7 +16,7 @@ Three models are trained and compared: Logistic Regression, Random Forest, and X
 ├── Churn_Modelling.csv                  ← Dataset (Kaggle)
 ├── README.md                            ← This file
 ├── Model_Comparison_Summary.md          ← Model comparison writeup
-├── Customer_Churn_Project_Document.docx ← Full project report (Word)
+├── RESULTS.pdf                          ← Results of the graph with interpretation
 │
 ├── plot_01_churn_distribution.png       ← Class distribution: 20.4% churn rate
 ├── plot_02_age_churn.png                ← Age distribution & churn by age group
